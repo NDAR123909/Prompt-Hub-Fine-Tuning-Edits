@@ -5,30 +5,29 @@ Link to the Salina Prompt Hub: https://prompthub.salina.app/
 
 ## Repository Structure
 
-# Prompt-Hub Fine-Tuning Edits
-
-## CHANGELOG
-- **06-24-2024 Writing Prompts Changes**
-  - `Update Log.md`
-  - `Revised Agent Groups.md`
-  - **Old Prompts**
-    - `prompt1.txt`
-    - `prompt2.txt`
-    - `...`
-  - `New Prompts.md`
-- **MM-DD-YYYY Description of Changes**
-  - `Update Log.md`
-  - `Revised Agent Groups.md`
-  - **Old Prompts**
-    - `prompt1.txt`
-    - `prompt2.txt`
-    - `...`
-  - `New Prompts.md`
-- **MM-DD-YYYY Description of Changes**
-  - `Update Log.md`
-  - `Revised Agent Groups.md`
-  - **Old Prompts**
-    - `prompt1.txt`
-    - `prompt2.txt`
-    - `...`
-  - `New Prompts.md`
+Prompt-Hub Fine-Tuning Edits/
+├── CHANGELOG/
+│   ├── 06-24-2024 Writing Prompts Changes/
+│   │   ├── Update Log.md
+│   │   ├── Revised Agent Groups.md
+│   │   ├── Old Prompts/
+│   │   │   ├── prompt1.txt
+│   │   │   ├── prompt2.txt
+│   │   │   └── ...
+│   │   └── New Prompts.md
+│   ├── MM-DD-YYYY Description of Changes/
+│   │   ├── Update Log.md
+│   │   ├── Revised Agent Groups.md
+│   │   ├── Old Prompts/
+│   │   │   ├── prompt1.txt
+│   │   │   ├── prompt2.txt
+│   │   │   └── ...
+│   │   └── New Prompts.md
+│   └── MM-DD-YYYY Description of Changes/
+│       ├── Update Log.md
+│       ├── Revised Agent Groups.md
+│       ├── Old Prompts/
+│       │   ├── prompt1.txt
+│       │   ├── prompt2.txt
+│       │   └── ...
+│       └── New Prompts.md

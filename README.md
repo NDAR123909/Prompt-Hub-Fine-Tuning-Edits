@@ -5,9 +5,9 @@ Link to the Salina Prompt Hub: https://prompthub.salina.app/
 
 ## Repository Structure
 
-- # Prompt-Hub Fine-Tuning Edits
-  - ## README.md
-  - ## CHANGELOG
+- Prompt-Hub Fine-Tuning Edits
+  - README.md
+  - CHANGELOG
     - ****MM-DD-YYYY Description of Changes**
       - `Revised Agent Groups.md`
       - `Update Log.md`

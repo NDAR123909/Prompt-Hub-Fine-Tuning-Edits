@@ -30,3 +30,7 @@ Link to the Salina Prompt Hub: https://prompthub.salina.app/
 - **New Prompts.md**
   - *Type*: File (.md)
   - *Description*: A markdown file containing links to all of the new prompts in Notion
+ 
+## Contribution Process
+
+Continuously updating the CHANGELOG also involves the help of Salina agents. Here is a link to the folder of agents that can aid in writing the files for this repository (only accessible through the admin account): https://app.salina.app/my-agents/6678e4c00b19d8b7ee0ba673  

@@ -9,7 +9,7 @@ Link to the Salina Prompt Hub: https://prompthub.salina.app/
 
 - **CHANGELOG**
   - *Type*: Folder
-  - *Description*: A folder containing a folder list of prompt revisions and fine-tuning edits. The folders it leads to are titled as update logs, being titled by date and description of changes (i.e. "06-24-2024 Writing Prompts Changes")
+  - *Description*: A folder containing a folder list of prompt revisions and fine-tuning edits. The folders it leads to are update logs, being titled by date and description of changes (i.e. "06-24-2024 Writing Prompts Changes")
 
 - **MM-DD-YYYY Description of Changes**
   - *Type*: Folder
@@ -30,7 +30,3 @@ Link to the Salina Prompt Hub: https://prompthub.salina.app/
 - **New Prompts.md**
   - *Type*: File (.md)
   - *Description*: A markdown file containing links to all of the new prompts in Notion
- 
-## Contribution Process
-
-Continuously updating the CHANGELOG also involves the help of Salina agents. Here is a link to the folder of agents that can aid in writing the files for this repository (only accessible through the admin account): https://app.salina.app/my-agents/6678e4c00b19d8b7ee0ba673  

@@ -5,8 +5,28 @@ Link to the Salina Prompt Hub: https://prompthub.salina.app/
 
 ## Repository Structure
 
-![image](https://github.com/NDAR123909/Prompt-Hub-Fine-Tuning-Edits/assets/149982776/331bdf38-95a7-49d4-a53e-15327d4f34e2)
+![image](https://github.com/NDAR123909/Prompt-Hub-Fine-Tuning-Edits/assets/149982776/25cdc278-97df-4fca-9009-fc05dc7a70ee)
 
 - **CHANGELOG**
-  - *Format*: Folder
-  - *Description*: A folder containing 
+  - *Type*: Folder
+  - *Description*: A folder containing a folder list of prompt revisions and fine-tuning edits. The folders it leads to are titled as update logs, being titled by date and description of changes (i.e. "06-24-2024 Writing Prompts Changes")
+
+- **MM-DD-YYYY Description of Changes**
+  - *Type*: Folder
+  - *Description*: A folder containing the details and contents of the update's corresponding changes
+
+- **Update Log.md**
+  - *Type*: File (.md)
+  - *Description*: A markdown file detailing and summarizing the various changes and fine-tuning edits made to the promtps
+
+- **Revised Agent Groups.md**
+  - *Type*: File (.md)
+  - *Description*: A markdown file containing a table that lists the agent groups that will be fine-tuned, as well as their status on the Salina Prompt Hub
+
+- **Old Prompts.md**
+  - *Type*: File (.md)
+  - *Description*: A markdown file containing links to all of the old prompts in Notion
+ 
+- **New Prompts.md**
+  - *Type*: File (.md)
+  - *Description*: A markdown file containing links to all of the new prompts in Notion

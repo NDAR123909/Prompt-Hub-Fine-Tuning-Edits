@@ -1,4 +1,4 @@
-06-24-2024 Update Log
+## 06-24-2024 Update Log
 
 - All existing writing prompts will contain blacklisted words not to include in the generated outputs
   - These words to avoid will be included in the prompt as well as in the reference files of the Salina Instructbots themselves

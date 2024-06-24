@@ -7,3 +7,6 @@ Link to the Salina Prompt Hub: https://prompthub.salina.app/
 
 ![image](https://github.com/NDAR123909/Prompt-Hub-Fine-Tuning-Edits/assets/149982776/331bdf38-95a7-49d4-a53e-15327d4f34e2)
 
+- **CHANGELOG**
+  - *Format*: Folder
+  - *Description*: A folder containing 

@@ -29,4 +29,4 @@ Link to the Salina Prompt Hub: https://prompthub.salina.app/
  
 - **New Prompts.md**
   - *Type*: File (.md)
-  - *Description*: A markdown file containing links to all of the new prompts in Notion
+  - *Description*: A markdown file containing links to all of the new prompts as well as proof of any other changes/updates made, documented in Notion

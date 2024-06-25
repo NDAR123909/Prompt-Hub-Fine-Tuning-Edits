@@ -25,7 +25,7 @@ Link to the Salina Prompt Hub: https://prompthub.salina.app/
 
 - **Old Prompts.md**
   - *Type*: File (.md)
-  - *Description*: A markdown file containing links to all of the old prompts in Notion
+  - *Description*: A markdown file containing links to all of the old prompts and features, documented in Notion
  
 - **New Prompts.md**
   - *Type*: File (.md)

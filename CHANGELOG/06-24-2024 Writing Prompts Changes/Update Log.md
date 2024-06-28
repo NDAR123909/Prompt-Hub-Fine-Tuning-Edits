@@ -6,6 +6,6 @@
 - All existing writing prompts will also include "no yapping and/or words to avoid" as part of the prompt
   - This segment in the prompt will reduce the length of the agents' outputs
   - It also aims to make the outputs less GPT sounding
-  - "No yapping segment + words to avoid" was only added to prompts that generated AI-written content.
-      - Only the "No yapping" segment was added to prompts that did not aim to generate content on its own (content review/strategy/outlining prompts)
+  - "No yapping metaprompt + words to avoid" was only added to prompts that generated AI-written content.
+      - Only the "No yapping" metaprompt was added to prompts that did not aim to generate content on its own (content review/strategy/outlining prompts)
 - All instructbots affected by this change were provided the reference file (but not necessarily the "words to avoid")

@@ -5,7 +5,7 @@ Link to the Salina Prompt Hub: https://prompthub.salina.app/
 
 ## Repository Structure
 
-![image](https://github.com/NDAR123909/Prompt-Hub-Fine-Tuning-Edits/assets/149982776/25cdc278-97df-4fca-9009-fc05dc7a70ee)
+![image](https://github.com/NDAR123909/Prompt-Hub-Fine-Tuning-Edits/assets/149982776/ce2d73d8-296c-4e75-a6b7-d1342e85eaab)
 
 - **CHANGELOG**
   - *Type*: Folder

@@ -5,9 +5,9 @@ Link to the Salina Prompt Hub: https://prompthub.salina.app/
 
 ## Repository Structure
 
-![image](https://github.com/NDAR123909/Prompt-Hub-Fine-Tuning-Edits/assets/149982776/ce2d73d8-296c-4e75-a6b7-d1342e85eaab)
+![image](https://github.com/NDAR123909/Prompt-Hub-Fine-Tuning-Edits/assets/149982776/1dab3039-4569-4508-ad7c-e3e8c6ac5611)
 
-- **CHANGELOG**
+- **Fine-Tuning History**
   - *Type*: Folder
   - *Description*: A folder containing a folder list of prompt revisions and fine-tuning edits. The folders it leads to are update logs, being titled by date and description of changes (i.e. "06-24-2024 Writing Prompts Changes")
 
@@ -17,13 +17,13 @@ Link to the Salina Prompt Hub: https://prompthub.salina.app/
   - *Example*:
 ![image](https://github.com/NDAR123909/Prompt-Hub-Fine-Tuning-Edits/assets/149982776/b4bfdca8-cb02-4530-8583-d3db00cc65f0)
 
-- **Changelog.md**
+- **CHANGELOG.md**
   - *Type*: File (.md)
   - *Description*: A markdown file detailing and summarizing the various changes and fine-tuning edits made to the promtps
   - *Example*:
 ![image](https://github.com/NDAR123909/Prompt-Hub-Fine-Tuning-Edits/assets/149982776/01814fcf-6208-43f5-89b3-779fcefea516)
 
-- **Revised Agent Groups.md**
+- **Fine-Tuned Agent Groups.md**
   - *Type*: File (.md)
   - *Description*: A markdown file containing a table that lists the agent groups that will be fine-tuned, as well as their status on the Salina Prompt Hub
   - *Example*:

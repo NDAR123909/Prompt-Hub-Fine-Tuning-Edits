@@ -29,14 +29,14 @@ Link to the Salina Prompt Hub: https://prompthub.salina.app/
   - *Example*:
 ![image](https://github.com/NDAR123909/Prompt-Hub-Fine-Tuning-Edits/assets/149982776/2df788c3-caf0-4ef3-b871-849687581caa)
 
-- **Old Prompts.md**
-  - *Type*: File (.md)
-  - *Description*: A markdown file containing links to all of the old prompts and features, documented in Notion
-  - *Example*:
-![image](https://github.com/NDAR123909/Prompt-Hub-Fine-Tuning-Edits/assets/149982776/18a6dc65-e49f-450a-80cc-c0add97f523b)
- 
 - **New Prompts.md**
   - *Type*: File (.md)
   - *Description*: A markdown file containing links to all of the new prompts as well as proof of any other changes/updates made, documented in Notion
   - *Example*:
 ![image](https://github.com/NDAR123909/Prompt-Hub-Fine-Tuning-Edits/assets/149982776/217506d6-0d80-4cab-9130-eb7b6b837534)
+
+- **Old Prompts.md**
+  - *Type*: File (.md)
+  - *Description*: A markdown file containing links to all of the old prompts and features, documented in Notion
+  - *Example*:
+![image](https://github.com/NDAR123909/Prompt-Hub-Fine-Tuning-Edits/assets/149982776/18a6dc65-e49f-450a-80cc-c0add97f523b)

@@ -1,4 +1,4 @@
-# 06-24-2024 Update Log
+# 06-24-2024 Changelog
 
 This update mostly aims to fine-tune the existing writing prompts in the Salina Prompt Hub to help them avoid generic AI-clichés while also making sure that their generated text isn't wordy.
 

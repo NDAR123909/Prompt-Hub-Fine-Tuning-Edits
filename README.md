@@ -17,7 +17,7 @@ Link to the Salina Prompt Hub: https://prompthub.salina.app/
   - *Example*:
 ![image](https://github.com/NDAR123909/Prompt-Hub-Fine-Tuning-Edits/assets/149982776/b4bfdca8-cb02-4530-8583-d3db00cc65f0)
 
-- **Update Log.md**
+- **Changelog.md**
   - *Type*: File (.md)
   - *Description*: A markdown file detailing and summarizing the various changes and fine-tuning edits made to the promtps
   - *Example*:

@@ -5,7 +5,7 @@ This short jailbreaking metaprompt "calms down" the AI, mitigating the overly po
 ## New Additions
 
 - Metaprompt added to the caption style prompts to maintain a balanced and neutral tone in both responses and outputs
-  - Changes were reflected in both the Prompt Hub Database and the main Salina Prompt Hub page
+  - Changes were reflected in both the Prompt Hub Database and the agents in the main Salina Prompt Hub page
 
 ## Removed 
 
